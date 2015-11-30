@@ -1,0 +1,29 @@
+{
+  "name": "blog",
+  "description": "my awsome blog",
+  "main": "",
+  "authors": [
+    "fan"
+  ],
+  "license": "MIT",
+  "moduleType": [
+    "globals"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "vendor/bower_dl",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "bootstrap": "~3.3.6",
+    "font-awesome": "fontawesome#~4.5.0",
+    "datatables": "~1.10.10",
+    "datatables-plugins": "~1.10.10"
+  }
+}
